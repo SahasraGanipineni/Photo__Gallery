@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+.links {
+    padding-left: 35px;
+    padding-right: 25px;
+    font-family: serif;
+    font-size: 20px;
+    display: inline;
+}
+
+h4{
+    color: whitesmoke;
+}
+
+#headings{
+    color: whitesmoke;
+    font-family: cursive;
+}
+
+#img{
+    border-style: dotted;
+    border-color: darkgray;
+    width: 225px;
+    height: 225px;
+}
+
+#item{
+    width: 225px;
+    height: 225px;
+    border-style: solid;
+    border-color: aquamarine;
+}
